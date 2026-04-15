@@ -1,12 +1,10 @@
-<div align="center">
-
 # Gabriel Viell Castilho
 
-![Gabriel](img/gabriel.jpeg)
+<p align="center">
+  <img src="img/gabriel.jpeg" width="200"/>
+</p>
 
-</div>
-
-## Introdução
+## Apresentação
 
 Meu nome é Gabriel Viell Castilho, tenho 20 anos e sou estudante do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos “Prof. Jessen Vidal”. Concluí o ensino médio técnico em Informática pelo SENAC São José dos Campos. Antes disso, iniciei o ensino médio técnico em Mecatrônica, no qual tive contato com a disciplina de informática, despertando maior interesse pela área de tecnologia, o que motivou minha transição para o curso técnico em Informática.
 
@@ -18,12 +16,13 @@ Além da formação acadêmica, participo de atividades extracurriculares voltad
   <img src="img/MaratonaSBC.jpeg" width="500"/>
 </p>
 
-Até o momento, não possuo experiência profissional formal na área de tecnologia. No entanto, estou em busca da minha primeira oportunidade de estágio ou emprego, com o objetivo de aplicar na prática os conhecimentos adquiridos ao longo da minha formação acadêmica.
+Até o momento, não possuo experiência profissional formal na área de tecnologia. No entanto, busco minha primeira oportunidade de estágio ou emprego, com o objetivo de aplicar na prática os conhecimentos adquiridos durante minha formação.
 
 ## Contatos
-* **GitHub -** https://github.com/GabrielViellCastilho
-* **LinkedIn -** https://www.linkedin.com/in/gabriel-viell-castilho/
-* **Email -** gabrielviell@hotmail.com
+
+- **GitHub:** https://github.com/GabrielViellCastilho  
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-viell-castilho/  
+- **Email:** gabrielviell@hotmail.com  
 
 ## Meus Principais Conhecimentos
 
@@ -45,40 +44,15 @@ Tenho maior foco em desenvolvimento back-end, principalmente na criação de API
 
 Ainda estou em processo de aprendizado e busco evoluir principalmente em desenvolvimento back-end, arquitetura de sistemas e boas práticas de programação.
 
+## Projetos Desenvolvidos
 
-## Meus Projetos
-
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
-
-[GIT](https://www.git.com)
-
-#### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
-
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
-
-#### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
-
-#### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
-
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
-
-
-
-
+| Semestre | Nome do Projeto | Tecnologias | Empresa Parceira | Descrição |
+|----------|----------------|-------------|------------------|----------|
+| [1º Semestre (2024-1)](./projetos/semestre1.md) | Scrum Academy | Flask, MySQL, HTML, CSS, JavaScript | Fatec-SJC | Aplicação web desenvolvida com o objetivo de ensinar e disseminar a metodologia ágil Scrum de forma acessível. |
+| [2º Semestre (2024-2)](./projetos/semestre2.md) | Alplaca | Java, Hibernate, MySQL, Ollama (IA local) | Fatec-SJC | Sistema de leitura de placas veiculares utilizando IA para reconhecimento e extração de caracteres de placas veiculares, com processamento local dos dados. |
+| [3º Semestre (2025-1)](./projetos/semestre3.md) | Alfalog | Python, Flask, MySQL, React, TypeScript | Fatec-SJC | Plataforma web para visualização e análise do desempenho dos estados brasileiros no comércio exterior, utilizando dados abertos governamentais. |
+| [4º Semestre (2025-2)](./projetos/semestre4.md) | ClassiPy | Python, FastAPI, PostgreSQL, Ollama (IA local), React, TypeScript | TecSys | Sistema que realiza o upload de pedidos de compra em PDF e utiliza IA para extrair Part Numbers e sugerir automaticamente a classificação fiscal (NCM), descrição e fabricante dos produtos. |
+| [5º Semestre (2026-1)](./projetos/semestre5.md) | ProDesk | TypeScript, React Native, NestJS, MongoDB | Pro4Tech | Aplicação mobile para gerenciamento de chamados, permitindo abertura, acompanhamento e comunicação entre usuários e suporte. |
+| [6º Semestre (2026-2)](./projetos/semestre6.md) | Em definição | A definir | A definir | Projeto em fase de planejamento. |
 
 
