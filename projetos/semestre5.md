@@ -40,7 +40,7 @@ Durante o desenvolvimento, realizei correções de bugs relacionados a upload de
 
 ### Hard Skills
 
-- **Node.js / NestJS** — Faço com autonomia
+- **NestJS** — Faço com autonomia
 - **TypeScript** — Faço com autonomia
 - **APIs REST** — Faço com autonomia
 - **PostgreSQL** — Faço com autonomia
