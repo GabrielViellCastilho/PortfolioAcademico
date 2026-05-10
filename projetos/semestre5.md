@@ -2,38 +2,70 @@
 
 ## Empresa Parceira
 
-O projeto foi desenvolvido em parceria com a empresa Pro4tech, com o objetivo de simular um ambiente real de desenvolvimento de software. As demandas foram definidas com base em necessidades do mercado de suporte técnico, utilizando a metodologia ágil Scrum durante todo o processo.
+O projeto foi desenvolvido em parceria com a empresa Pro4tech, voltada para soluções tecnológicas e suporte corporativo na área de TI. A proposta foi conduzida em ambiente acadêmico, simulando um cenário real de mercado, com foco no desenvolvimento de uma plataforma mobile de Help Desk para gerenciamento de chamados técnicos e atendimento de usuários.
 
 ## Problema
 
-O gerenciamento de chamados de suporte técnico muitas vezes é feito de forma desorganizada, com informações descentralizadas e dificuldade de comunicação entre usuários e equipe de TI. Isso pode gerar atrasos no atendimento, perda de informações importantes e baixa eficiência na resolução dos problemas.
+O gerenciamento de chamados de suporte técnico em muitas empresas ainda ocorre de forma descentralizada, utilizando diferentes meios de comunicação, como mensagens, e-mails e planilhas. Isso dificulta o controle das solicitações, gera perda de informações importantes e reduz a eficiência do atendimento realizado pela equipe de TI.
+
+Além disso, a ausência de uma plataforma centralizada dificulta o acompanhamento do status dos chamados, a comunicação entre clientes e atendentes e a organização das demandas por prioridade ou setor responsável. Esse cenário aumenta o tempo de resposta, dificulta a rastreabilidade dos atendimentos e impacta diretamente a produtividade da equipe de suporte.
 
 ## Solução
 
-A equipe desenvolveu o ProDesk, uma aplicação mobile de Help Desk que centraliza o registro e acompanhamento de chamados técnicos. A plataforma permite que usuários abram solicitações, acompanhem o status e interajam com a equipe de suporte, enquanto os atendentes conseguem gerenciar, organizar e responder os chamados de forma mais eficiente.
+A equipe desenvolveu o ProDesk, uma aplicação mobile de Help Desk voltada para centralizar o registro, acompanhamento e gerenciamento de chamados técnicos. A plataforma permite que usuários realizem solicitações de suporte, acompanhem o andamento dos chamados e interajam diretamente com a equipe responsável através de funcionalidades integradas ao sistema.
 
-O sistema foi projetado para melhorar a comunicação, aumentar a produtividade da equipe de TI e garantir maior controle sobre as demandas de suporte.
+O sistema também oferece recursos para gerenciamento de usuários, organização de chamados por categorias, autenticação, recuperação de senha e controle de informações dos atendimentos. A aplicação foi construída com foco em organização, agilidade no suporte técnico e melhoria da comunicação entre usuários e equipe de TI.
 
-## Contribuições Pessoais
+### Link do Repositório Git
 
-Atuei como desenvolvedor back-end no projeto, sendo responsável pela criação e evolução do módulo de usuários. Implementei funcionalidades como cadastro, autenticação, redefinição de senha e gerenciamento de perfil, incluindo upload e remoção de imagem.
+https://github.com/Bug-Busters-F/ProDesk
 
-Também trabalhei na estruturação e refatoração do domínio de usuários, removendo dependências desnecessárias e adicionando suporte a categorias, melhorando a organização e escalabilidade do sistema.
+### Tecnologias Utilizadas
 
-Além disso, desenvolvi rotas para manipulação de dados, como exclusão de imagens e testes de funcionalidades, garantindo maior confiabilidade da aplicação. Participei ativamente do controle de versão com Git, realizando merges, resolvendo conflitos e mantendo a integração com a branch principal durante as sprints.
+- **NestJS:** desenvolvimento da API e regras de negócio
+- **TypeScript:** tipagem e desenvolvimento da aplicação
+- **PostgreSQL:** armazenamento e gerenciamento dos dados
+- **JWT:** autenticação e controle de acesso
+- **Git e GitHub:** versionamento e colaboração em equipe
+- **Jira:** gerenciamento das tarefas e sprints
+- **React Native:** desenvolvimento mobile da aplicação
 
-## Hard Skills
+### Contribuições Pessoais
 
-- Node.js / NestJS — faço com autonomia
-- TypeScript — faço com autonomia
-- APIs REST — faço com autonomia
-- Banco de Dados — faço com autonomia
-- Git/GitHub — faço com autonomia
-- Testes de API — faço com autonomia
+Atuei como desenvolvedor back-end no projeto, trabalhando principalmente na criação e evolução do módulo de usuários utilizando NestJS e TypeScript. Implementei funcionalidades relacionadas a cadastro, autenticação, redefinição de senha, gerenciamento de perfil e manipulação de imagens de usuário, incluindo upload e remoção de arquivos.
 
-## Soft Skills
+Também participei da refatoração do domínio de usuários, removendo dependências desnecessárias e adicionando suporte a categorias, contribuindo para melhorar a organização e escalabilidade da aplicação. Além disso, implementei rotas específicas para manipulação de dados, testes de funcionalidades e tratamento de operações relacionadas às imagens dos usuários.
 
-- **Comunicação:** participei das discussões do time para definir rotas e organização do módulo de usuários.
-- **Trabalho em equipe:** colaborei com o time na integração entre funcionalidades e no fluxo das sprints.
-- **Adaptabilidade:** me adaptei a mudanças na estrutura do projeto, como refatorações no módulo de usuários.
-- **Resolução de problemas:** corrigi erros em rotas, upload de arquivos e estrutura de dados ao longo do desenvolvimento.
+Durante o desenvolvimento, realizei correções de bugs relacionados a upload de arquivos, estrutura de dados e rotas da API. Também participei ativamente da organização do projeto utilizando Git e GitHub, realizando merges, resolução de conflitos e manutenção da integração entre branches durante as sprints.
+
+### Hard Skills
+
+- **Node.js / NestJS** — Faço com autonomia
+- **TypeScript** — Faço com autonomia
+- **APIs REST** — Faço com autonomia
+- **PostgreSQL** — Faço com autonomia
+- **Git/GitHub** — Faço com autonomia
+- **Testes de API** — Faço com ajuda
+
+### Soft Skills
+
+- **Comunicação:** participei das discussões técnicas do time para definir a organização das rotas, estrutura do módulo de usuários e fluxo de autenticação da aplicação.
+
+- **Adaptabilidade:** precisei me adaptar a mudanças na estrutura do projeto e em regras de negócio relacionadas ao gerenciamento de usuários e categorias.
+
+<details>
+<summary><strong>Demonstração da Evolução do Projeto</strong></summary>
+
+### Sprint 1
+
+<p align="center">
+  <img src="../img/proj5/GifSprint1.gif" width="500"/>
+</p>
+
+### Sprint 2
+
+<p align="center">
+  <img src="../img/proj5/GifSprint2.gif" width="500"/>
+</p>
+
+</details>
