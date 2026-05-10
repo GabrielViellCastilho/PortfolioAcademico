@@ -53,8 +53,6 @@ Durante o projeto, participei da integração de gráficos conectados ao banco d
 
 ### Soft Skills
 
-- **Trabalho em equipe:** participei da implementação conjunta de funcionalidades relacionadas à autenticação e interface visual, dividindo tarefas com outros integrantes e auxiliando na integração entre front-end e back-end durante as sprints.
-
 - **Adaptabilidade:** precisei realizar ajustes frequentes na interface da aplicação, como correções de responsividade, alterações no header e footer e melhorias visuais solicitadas ao longo do desenvolvimento do projeto.
 
 - **Resolução de problemas:** identifiquei e corrigi problemas relacionados à exibição de informações do usuário após o login, além de resolver bugs visuais e inconsistências em componentes da interface.
