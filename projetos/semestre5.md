@@ -59,13 +59,21 @@ Durante o desenvolvimento, realizei correções de bugs relacionados a upload de
 ### Sprint 1
 
 <p align="center">
-  <img src="../img/proj5/GifSprint1.gif" width="500"/>
+
+
+https://github.com/user-attachments/assets/6b875307-b5fe-4feb-aa89-de9db48a7b0f
+
+
 </p>
 
 ### Sprint 2
 
 <p align="center">
-  <img src="../img/proj5/GifSprint2.gif" width="500"/>
+
+
+https://github.com/user-attachments/assets/02f9bce1-99d5-42fb-bd2d-760ad7fb8b0f
+
+
 </p>
 
 </details>
